@@ -1,0 +1,1 @@
+Piccolo software per un progetto di un amico, utilizzando le API di OpenAI. L'obiettivo era creare un sistema in grado di simulare una chat con un terapeuta reale. La piattaforma include anche una funzione per salvare progressivamente le conversazioni, rendendo possibile analizzare i risultati in un secondo momento.
